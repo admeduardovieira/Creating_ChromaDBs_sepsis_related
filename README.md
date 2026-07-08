@@ -14,3 +14,8 @@ with *cosine* embeding function and [llamaIndex](https://docs.llamaindex.ai/en/s
 *Articles_sample_list.txt* contains a sample list of articles that can serve as the core for one of the databases (e.g., concerning sepsis management).
 
 The code is available in *Creating_ChromaDBs_sepsis.ipynb*.
+
+### Acknowledgments
+This code was produced under the following projects:
+Project PN-IV-PCB-RO-MD-2024-036 "DACISLAB: Virtual laboratory on open data and open science in the new generation of computing continuum systems";
+Postdoctoral project no. 25.00208.5007.07/PD "Intelligent Software Methods and Algorithms for Intensive Care: A Complexity Science Approach," funded by the National Agency for Research and Development (NARD) of Moldova.
